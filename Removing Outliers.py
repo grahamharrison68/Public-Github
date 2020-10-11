@@ -12,7 +12,7 @@ print("imports complete")
 # A boxplot showing the median and inter-quartile ranges is a good way to visualise a distribution, especially when 
 # the data contains outliers. The meaning of the various aspects of a box plot can be visualised as follows -
 # 
-# ![](images\IQR.png)
+# ![](images/IQR.png)
 
 # %% [markdown]
 # ## Generating some data
