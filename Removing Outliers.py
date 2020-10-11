@@ -69,7 +69,7 @@ df.head()
 # ![](IQR.png)
 
 # %% [markdown]
-# ### Helpder functions
+# ### Helper functions
 #
 # The functions below looks at a column of values within a data frame and calculates
 # the 1st and 3rd quartiles, the inter-quartile range and the minimum and maximum
@@ -130,7 +130,7 @@ print(f"Col2 has {count_outliers(df, 'Col2')} outliers")
 # %% [markdown]
 # ## Removing the outliers
 #
-# Having done all the heavy lifting in the helpder functions we can now go ahead and remove the rows from the outliers
+# Having done all the heavy lifting in the helper functions we can now go ahead and remove the rows from the outliers
 # outside of the |- and -| whiskers ...
 
 # %% remove the outliers
