@@ -179,17 +179,31 @@ print(f"Col2 has {count_outliers(df, 'Col2')} outliers")
 # We can either accept this slightly strange looking result or we can keep on trimming outliers until 
 # there are non left in the updated data frame ..
 
-# %% Keep on removing outliers until they are all gone ...
-for column in df:
+# %% [markdown]
+# ### Create a new helper function
+#
+# This helpder function will call remove_outliers repeatedly until all outliers have been removed
+# including the ones that were inside the old boundaires but just outside of the new ones.
+
+# %% New helper function ...
+def remove_all_outliers(df_in, col_name):
     loop_count = 0
-    outlier_count = count_outliers(df, column)
+    outlier_count = count_outliers(df_in, col_name)
+
     while outlier_count > 0:
-        df = remove_outliers(df, column)
-        outlier_count = count_outliers(df, column)
         loop_count += 1
+
         if (loop_count > 100):
             break
 
+        df_in = remove_outliers(df_in, col_name)
+        outlier_count = count_outliers(df_in, col_name)
+    
+    return df_in
+
+# %% Keep on removing outliers until they are all gone ...
+for column in df:
+    df = remove_all_outliers(df, column)
     print(f"{column} has {count_outliers(df, column)} outliers")
     box_and_whisker(df, column)
 
@@ -207,5 +221,74 @@ for column in df:
 # to remove outlandish values skewing the results or the models the results will be used in, or we can simply 
 # iterate around the data removing outliers until they are all gone. Two iterations usually suffices but the 
 # function provided keeps going until they are all gone
+
+# %% [markdown]
+# ## Putting it into action
+#
+# Now we know how to remove outliers (including the odd looking result when new outliers have been 
+# created when the minimum and maximum boundaires move) let's put it all into action by looking at
+# a typical pattern that occurs in exploratory data analysis ...
+
+# ### A normal distribution ...
+#
+# The histogram below is normally distribute and if we were given this data as part of a data science
+# project we would be moving onto the next stage, looking for correlations etc. 
+
+# %% Create a normal distriubtion with some outliers 
+mu, sigma = 0, 0.1 # mean and standard deviation
+s = np.random.normal(mu, sigma, 1000) # create a 1000 normally distributed data points
+
+df_normal = pd.DataFrame({'Col0': s})
+df_normal['Col0'].hist()
+
+# %% [markdown]
+# ### A skewed distribution ...
+#
+# However, if we force some of our normally distributed data to be extreme outliers then the 
+# plotted distribution takes on a very different shape ...
+
+# %% Add some outliers and re-plot 
+s[600] = 6
+s[700] = 6.5
+s[800] = 6.57
+s[900] = 6.8
+
+df_normal = pd.DataFrame({'Col0': s})
+df_normal['Col0'].hist()
+
+# %% [markdown]
+# ### Resolving the skewed distribution ...
+#
+# The new plot is a common pattern we often see when plotting a feature in a histogram. A single big
+# bar with a tiny bar way out to the left or right (or both) is a tell-tale sign that outliers might
+# be present in the data and this means that our nice, tidy, normally distributed histogram is completely 
+# hidden and obscurred by the single big bar.
+#
+# When we observ this pattern we need to remove the outliers and then see what the new distribution looks like.
+# If we want to check for the presence of outliers then a quick box plot will confirm or deny ...
+# %% Plot the box-and-whisker
+box_and_whisker(df_normal, 'Col0')
+
+# %% [markdown]
+# ### Resolving the skewed distribution ...
+#
+# Sure enough there are outliers well outside the maximum. Fortunately we now have some helper functions defined 
+# that can do this for us with minimal effort.
+
+# %% Remove the outliers and re-display the box-and-whisker and the histogram
+df_normal = remove_all_outliers(df_normal, 'Col0')
+box_and_whisker(df_normal, 'Col0')
+df_normal['Col0'].hist()
+
+# %% [markdown]
+# ## Closing Notes
+#
+# Having understood how to spot and remove outliers (properly) we have also worked through spotting 
+# the tell-tale sign of a single tall bar and a distant small one in a histogram that often indicates 
+# the presence of outliers. 
+#
+# We have then applied the helper functions in this more realistic scenario and demonstrated that
+# the outliers have been removed which has enabled a standard histogram to reveal the true pattern 
+# of distribution within our data points.
 
 # %%
