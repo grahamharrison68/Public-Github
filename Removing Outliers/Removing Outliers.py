@@ -10,7 +10,7 @@ print("imports complete")
 # # Outliers
 # 
 # A boxplot showing the median and inter-quartile ranges is a good way to visualise a distribution, especially when 
-# the data contains outliers. The meaning of the various aspects of a box plot can be visualised as follows -
+# the data contains outliers. The meaning of the various aspects of a box plot can be explained as follows -
 # 
 # ![](IQR.png)
 
@@ -18,17 +18,18 @@ print("imports complete")
 # ## Generating some data
 # We are going to need some test data to explore the issues around outliers
 
-
 # %% [markdown]
 # ### Function Definition
 #
 # The generate() function below (taken from Stack Overflow) will generate a list of floats
 # with a given median that contains outliers (values a long way from the median) which we can
 # use to explore the concept.
+#
+# The generate() function was modified from https://stackoverflow.com/questions/55351782/how-should-i-generate-outliers-randomly
 
 # %% Generate function
 def generate(median=630, err=12, outlier_err=100, size=80, outlier_size=10):
-    np.random.seed(median)
+    np.random.seed(median) # The seed is set to the median to force the same output each time the code is run
     errs = err * np.random.rand(size) * np.random.choice((-1, 1), size)
     data = median + errs
 
@@ -55,7 +56,7 @@ df_test.head()
 # %% [markdown]
 # ## Creating some meaningful data
 #
-# The following creates a dataframe with 3 columns with means of 630, 740 and 220 which contain ouutlying values
+# The following creates a dataframe with 3 columns with means of 630, 740 and 220 which contain ouutlying values - 
 
 # %% Create the dataframe
 df = pd.DataFrame({'Col0': generate(median=630), 'Col1': generate(median=740), 'Col2': generate(median=220)})
@@ -71,9 +72,9 @@ df.head()
 # %% [markdown]
 # ### Helper functions
 #
-# The functions below looks at a column of values within a data frame and calculates
-# the 1st and 3rd quartiles, the inter-quartile range and the minimum and maximum
-# Any value outside of the miniumum and maximum is an outlier
+# The functions below looks at a column of values within a data frame and calculate
+# the 1st and 3rd quartiles, the inter-quartile range and the minimum and maximum.
+# Any value outside of the miniumum and maximum is an outlier.
 
 # %% Define fuctions to calculate the iqr values and then apply them to remove outliers...
 # (modified from http://www.itl.nist.gov/div898/handbook/prc/section1/prc16.htm)
@@ -130,10 +131,10 @@ print(f"Col2 has {count_outliers(df, 'Col2')} outliers")
 # %% [markdown]
 # ## Removing the outliers
 #
-# Having done all the heavy lifting in the helper functions we can now go ahead and remove the rows from the outliers
-# outside of the |- and -| whiskers ...
+# Having done all the heavy lifting in the helper functions we can now go ahead and remove the 
+# rows from the data that contain outliers outside of the |- and -| whiskers ...
 
-# %% remove the outliers
+# %% Remove the outliers
 print(f"rows before removing: {df.shape[0]}")
 df = remove_outliers(df, 'Col0')
 df = remove_outliers(df, 'Col1')
@@ -154,14 +155,14 @@ _, _, _, _, minimum_Col1_after, maximum_Col1_after = get_iqr_values(df, 'Col1')
 # ## Explain the result
 #
 # The reason that Col0 and Col1 still appear to have outliers is that we removed the outliers based on the 
-# minimum and maximum of the dataframe before we modified it with 
+# minimum and maximum of the original dataframe before we modified it with 
 # 
 #    df = remove_outliers(df, 'Col0')
 #    df = remove_outliers(df, 'Col1')
 #    df = remove_outliers(df, 'Col2')
 # 
 # Once the data has been changed some values will be retained that were close to the original boundaries but 
-# after the modification the boundaries will change leaving some of the values outside of the new boundaries
+# after the modification the boundaries will have changed leaving some of the values outside of the new boundaries!?
 
 # %% Explain the results in data ...
 print(f"Col1 original boundaries: minium={minimum_Col1_before:.2f}, maximum={maximum_Col1_before:.2f}")
@@ -172,7 +173,6 @@ print(f"Col0 has {count_outliers(df, 'Col0')} outliers")
 print(f"Col1 has {count_outliers(df, 'Col1')} outliers")
 print(f"Col2 has {count_outliers(df, 'Col2')} outliers")
 
-# %% 
 # %% [markdown]
 # ## Resolve the result
 #
@@ -183,7 +183,7 @@ print(f"Col2 has {count_outliers(df, 'Col2')} outliers")
 # ### Create a new helper function
 #
 # This helpder function will call remove_outliers repeatedly until all outliers have been removed
-# including the ones that were inside the old boundaires but just outside of the new ones.
+# including the ones that were inside the old boundaires but just outside of the new ones ...
 
 # %% New helper function ...
 def remove_all_outliers(df_in, col_name):
@@ -202,32 +202,34 @@ def remove_all_outliers(df_in, col_name):
     return df_in
 
 # %% Keep on removing outliers until they are all gone ...
+# Note that I wouldn't usually iterate through every column in the data frame removing outliers as the data 
+# might not numeric or they might be categorical. The iteration of all columns is just done for expediency here ...
 for column in df:
     df = remove_all_outliers(df, column)
     print(f"{column} has {count_outliers(df, column)} outliers")
     box_and_whisker(df, column)
 
 # %% [markdown]
-# ## Conclusion
+# ## Summary
 #
 # We have generated some test data with outliers to explore the probem space and then built some
-# helper functions to resolve them.
+# helper functions to resolve the outliers.
 # 
 # Having removed the outliers using the inter quartile ranges we noted that there appeared to be some
-# left near the tails and explained this result as follow; the remaining outliers were not quite outliers
+# left near the tails and explained this result as follows: the remaining outliers were not quite outliers
 # in the original data but when we modified the data by trimming the original outliers the boundaries changed.
 #
-# This is an odd looking result. We can either accept it, as the point of removing outliers would usually be
-# to remove outlandish values skewing the results or the models the results will be used in, or we can simply 
-# iterate around the data removing outliers until they are all gone. Two iterations usually suffices but the 
-# function provided keeps going until they are all gone
+# This is an odd looking result. We can either accept it (as the point of removing outliers would usually be
+# to remove outlandish values skewing the results or the models the results will be used in) or we can simply 
+# remove outliers iteratively until they are all gone. Two iterations usually suffices but the 
+# function provided keeps going until they are all gone or the maximum of 100 iterations is reached.
 
 # %% [markdown]
 # ## Putting it into action
 #
 # Now we know how to remove outliers (including the odd looking result when new outliers have been 
 # created when the minimum and maximum boundaires move) let's put it all into action by looking at
-# a typical pattern that occurs in exploratory data analysis ...
+# a typical pattern that occurs in exploratory data analysis (EDA) ...
 
 # ### A normal distribution ...
 #
@@ -236,7 +238,7 @@ for column in df:
 
 # %% Create a normal distriubtion with some outliers 
 mu, sigma = 0, 0.1 # mean and standard deviation
-s = np.random.normal(mu, sigma, 1000) # create a 1000 normally distributed data points
+s = np.random.normal(mu, sigma, 1000) # create 1000 normally distributed data points
 
 df_normal = pd.DataFrame({'Col0': s})
 df_normal['Col0'].hist()
@@ -259,21 +261,22 @@ df_normal['Col0'].hist()
 # %% [markdown]
 # ### Resolving the skewed distribution ...
 #
-# The new plot is a common pattern we often see when plotting a feature in a histogram. A single big
-# bar with a tiny bar way out to the left or right (or both) is a tell-tale sign that outliers might
+# This new plot is a common pattern we often see when plotting a feature from our data in a histogram. A single big
+# bar with a tiny bars way out to the left or right (or both) is a tell-tale sign that outliers might
 # be present in the data and this means that our nice, tidy, normally distributed histogram is completely 
 # hidden and obscurred by the single big bar.
 #
-# When we observ this pattern we need to remove the outliers and then see what the new distribution looks like.
+# When we observe this pattern we need to remove the outliers and then see what the new distribution looks like.
 # If we want to check for the presence of outliers then a quick box plot will confirm or deny ...
+
 # %% Plot the box-and-whisker
 box_and_whisker(df_normal, 'Col0')
 
 # %% [markdown]
 # ### Resolving the skewed distribution ...
 #
-# Sure enough there are outliers well outside the maximum. Fortunately we now have some helper functions defined 
-# that can do this for us with minimal effort.
+# Sure enough there are outliers well outside the maximum (i.e. Q3 + 1.5 * IQR). Fortunately we now have some helper 
+# functions defined that can remove the outliers for us with minimal effort.
 
 # %% Remove the outliers and re-display the box-and-whisker and the histogram
 df_normal = remove_all_outliers(df_normal, 'Col0')
@@ -281,14 +284,16 @@ box_and_whisker(df_normal, 'Col0')
 df_normal['Col0'].hist()
 
 # %% [markdown]
-# ## Closing Notes
+# ## Conclusion
 #
 # Having understood how to spot and remove outliers (properly) we have also worked through spotting 
-# the tell-tale sign of a single tall bar and a distant small one in a histogram that often indicates 
+# the tell-tale sign of a single tall bar and distant small ones in a histogram that usually indicates 
 # the presence of outliers. 
 #
 # We have then applied the helper functions in this more realistic scenario and demonstrated that
 # the outliers have been removed which has enabled a standard histogram to reveal the true pattern 
 # of distribution within our data points.
+#
+# We can now look forward to the rest of the exploratory data analysis stage!
 
 # %%
