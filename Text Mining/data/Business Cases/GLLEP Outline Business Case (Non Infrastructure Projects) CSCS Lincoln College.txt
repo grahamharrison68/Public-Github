@@ -1,0 +1,525 @@
+
+
+
+
+Project NameLincoln Cyber Security CentreProject Ref:LEP to CompleteProject Location LincolnSite ownershipPlanning Application Ref
+Total Project Value (£)£2,180,428LEP Funding Sought (£)£1,417,278Fund Name (e.g. Single Local Growth Fund)LEP area(s) coveredGreater Lincolnshire
+Lead ApplicantLincoln CollegeOrganisation TypeGeneral Further Education CollegeApplicant AddressMonks Road, Lincoln, LN2 5HQMain Contact PersonSarah DakinContact Emailsdakin@lincolncollege.ac.ukTelephone01522 867000	
+Project Summary
+(Please keep as brief as possible as this will be used for publicity purposes and uploaded onto the GL LEP website)What Economic Impact will the project have? How will the project deliver training and fill skills gaps to meet employer needs within the LEP propriety sectors?
+
+The impact of cyber breaches on UK businesses is rising in severity and impact. With numbers increasing year on year, in 2020 46% of businesses and 26% of charities reported cyber security breaches, with 32% experiencing breaches at least once a week. One in five businesses experienced material outcome, losing money or data, and two in five were negatively impacted, causing wider business disruption. In 2021, cyber-attacks are predicted to occur every 11 seconds. However, the response of UK businesses is lacking: 
+* Only 54% of businesses seek information and guidance;
+* Only 35% conduct cyber security risk assessments;
+* Only 38% have written cyber policies;
+* Only 32% of business are insured against cyber risks. 
+
+Capital funding from Greater Lincolnshire LEP will enable us to develop the first Centre of Excellence for Cyber Security skills in the UK and it will be based in the heart of Lincoln to provide unique support to local organisations as well as the broader UK economy. 
+
+Inspired by the needs of employers across all priority sectors in Greater Lincolnshire and driven by a partnership between KryptoKloud Ltd and Lincoln College, we will deliver the ETCC (Essential Training for Cyber Centre) a dual-focused Cyber Security Operations and Training Centre. 
+
+KryptoKloud works at the cutting edge of cyber security. They deliver 24/7 cyber support to organisations across all sectors, of all sizes, locally, nationally and internationally. They understand the challenges of cyber attacks and know exactly what businesses need to do to protect themselves – including enhancing the skills of the workforce, purchasing equipment, and procuring additional services from a cyber partner like KryptoKloud.
+
+Working collaboratively with education experts from Lincoln College, the Centre will work with local businesses across Greater Lincolnshire to raise awareness of cyber crime and associated risks and provide increased protection to businesses in all sectors by upskilling the workforce. 
+
+The Centre will offer a 330 square metre, live ‘Security Operations Centre’ (SOC) and a similarly sized educational delivery suite, mirroring the professional SOC and providing a live learning environment. 
+
+Training will be delivered via a blend of face-to-face and online courses, which will provide cyber education at numerous levels to any business irrespective of size or geographical location. Opportunities include:
+* Raising awareness of cyber risks with all employees via online training, monthly newsletters and quarterly webinars;
+* Strategic planning workshops for cyber resilience at C-suite level;
+* Free cyber resilience audits for any GL business in a priority sector to enable them to understand their cyber-resilience strengths and vulnerabilities. 
+
+Through our business-support activities, we believe that we can support at least:
+* 5,000 employees via newsletters
+* 3,000 employees via webinars
+* 400 businesses via webinars
+* 200 businesses via cyber audits
+
+in the first year of delivery across Greater Lincolnshire. Given that cyber attacks have cost the UK economy £87 billion since 2015, this activity will save businesses across the regions hundreds of thousands of pounds. 
+
+i) How will the project deliver training and fill skills gaps to meet employer needs within the LEP priority sectors?
+
+ETCC will offer the very best in practical and academic training to fill the GLLEP cyber security skills gaps and digital training needs across all sectors.
+
+Engaging and consulting with employers is an important part of the Lincoln College Group (LCG) approach to curriculum design and as a result we make regular changes to ensure the relevance of the qualifications and training offered.
+We regularly consult with our network of over 1,000 employers via 1-2-1 meetings, focus groups, representative federations and electronic surveys. One of the messages that we have received consistently over the past 24 months is that digital skills, including cyber security, are at the forefront of business leaders’ minds as an area of vulnerability due to a skills shortage within their organisation and a lack of understanding of whether support is available and how to access it.
+
+From these conversations it is clear that digital skills training is a key priority for all businesses and as new threats emerge, new jobs are required to keep businesses and their digital assets safe. Globally there are over 4 million unfilled positions in cybersecurity with a current workforce that is twice as likely to be male. The Centre will address both the skills shortage and the gender imbalance, providing learners with access to new professional cyber training qualifications that have not been offered before, including:
+* Training new entrants to the cyber profession, including Kick Start and Level 3 Cyber Security Technician Apprenticeship programme;
+* Developing the professional skills of mid-career IT and cyber professionals through a range of industry-leading qualifications:
+o Level 3 Foundation Technical Level IT: Cyber Security;
+o Level 4 Cyber Security Technologist;
+o Level 4 Cyber Intrusion Analyst;
+o Level 6 Cyber Security Degree Technical professional.
+
+The nature of the live learning environment in the KryptoKloud SOC will enable learners to access a blend of digital and live, real-life learning experiences. This accessible and inclusive delivery model will be key to success: we know through experience that live and blended learning leads to the high achievement rates. Industry placements will provide additional cyber support for local businesses, and on completion of their studies graduates will be recruited into Greater Lincolnshire organisations across all sectors, providing pathways to employment opportunities in an exciting and new sector.
+
+Through our formal education programmes, we believe that we can support at least 3,000 employees and 600 businesses per annum across Greater Lincolnshire.
+
+In conclusion, the Lincoln Cyber Security Operations and Training Centre will strengthen the institutional capacity of businesses across the Greater Lincolnshire region. It will support businesses to adopt new digital technology in a safe and secure way, upskill their existing workforce to be an extra line of defence against cyber attacks, and support businesses to fill hard to recruit vacancies in cyber-related roles. It will have a positive impact in business growth, revenue and resilience and ensure that our region’s businesses emerge from the global pandemic stronger than ever before. 
+Project Start DateFinancial Completion DatePractical Completion DateActivity Completion Datedate from which eligible expenditure will be incurreddate by which eligible costs will have been defrayeddate by which all Outputs/Results will be achievedthe date by which all the operation’s activities described in the application will be completedSeptember 2021September 2022July 2025September 2022
+Funding Summary LEP Funding (a)Public Match Funding (b) – please statePrivate Match Funding (c)
+Please stateTotals (d)Contribution Rates
+(if applicable)
+(a)/(d) x 100Capital£1,417,278££763,150£2,180,42865%Revenue£££Totals£1,417,278££763,150£2,180,42865%
+Delivery PartnersWill you work with other organisations to deliver this project?YESxNODelivery Partners
+ETCC will be led by Lincoln College, with support and training being delivered by the college itself and other strategic partners including:
+
+KryptoKloud
+* KryptoKloud is an independent cyber operations and intelligence company, established in 2016.  
+* Currently operating from a 24/7 Cyber Intelligence Centre, they will move into the new Cyber Centre to run their operations
+* They provide effective cyber operations and consultancy services to a global portfolio of clients, with a focus on simplifying cyber security for their clients.
+* They utilise their own products and reputational analysis platforms as well as industry-leading third-party products and platforms to support customers.
+* Clients include leading international pharmaceuticals, global logistics organisations, renewable energy experts, defence manufacturers, care providers, legal, financial and investment companies.
+* Greater Lincolnshire clients include: B-Hive, Tended, Lincoln City Football Club, Lincolnshire Care Association, and Lincoln College Group.
+* National and international clients include: Novartis, Kirintec, Jersey Post, Jersey Post International, US Postal Service, Foresight, and OSR.
+* KryptoKloud also provides a cyber capability to a leading Lloyds of London Cyber Insurance body allowing the company to further expand its client base and be introduced to a new national audience.
+
+Supporting Organisations
+
+Lincoln BIG
+Lincoln BIG has been in existence as a business since 2003 and has been a Business Improvement District (BID) since 2005. Their philosophy is simple, if the city centre is clean, bright and welcoming with lots of activity and events taking place then more people will visit, and when they do visit they will stay longer. Their work also ensures that the city centre is a great place in which to operate a business, and a better environment for staff to work in. They have achieved great things over the last five years and at the same time continued to provide their core services to businesses which include employing the city centre wardens, Lincoln in Bloom, Christmas activities, dealing with security incidents, managing bus and car parking deals, operating the Lincoln Visitor Information Centre and organising events. Lincoln BIG are working with us on this project to ensure we can support their 820 members to increase their awareness of and resilience to cyber-attacks.
+
+Lincoln Chamber of Commerce
+The Lincolnshire Chamber of Commerce is a not-for-profit organisation supporting local businesses in Lincolnshire. In 2019 they celebrated 130 years supporting Lincolnshire businesses. The Chamber is enhanced by being part of a worldwide network and is one of the British Chambers of Commerce (BCC) Accredited Chambers, the largest and most powerful network for business in the UK. They are a business membership organisation, supporting around 1,000 local businesses to come together, make connections, share knowledge and grow. They do this through a variety of networking opportunities, PR and marketing support and signposting opportunities. Their members are made up of every size and sector of business, from start-ups to large, established businesses. They operate across all sectors. The Chamber are working with us on this project to ensure we can support their 1,700 members to increase their awareness of and resilience to cyber-attacks.
+
+Lincolnshire Police
+Lincolnshire Police have a strong working relationship with the College. We have held conversations regarding their intention to increase capacity and capability of their workforce through their involvement in our cyber-security apprenticeship programme, where they have an ambition to secure twenty places. They also work closely with KryptoKloud, who share intelligence appropriately following cyber breach investigations.
+
+Invitees to Steering Group 
+Paul Burrows - KryptoKloud
+Graham Harrison - Lincoln College Group 
+Andrew White -Lincolnshire Police 
+Sarah Loftus - Lincoln BIG
+Simon Beardsley - Lincoln Chamber of Commerce
+Liam Scully - Lincoln City Football Club
+Grace Neal - Lincolnshire Care Association
+1. Deliverability1.1 What is the Project? 
+(Please summarise in 100 words or less.  More specific details can be provided in other sections of the form)The ETCC will deliver outstanding cyber security services for organisations in Greater Lincolnshire and beyond. It will be a training hub for apprentices and qualified cyber analysts, providing programmes and qualifications to learn new and refine existing skills. This will be a cutting edge, progressive Centre of Excellence, raising awareness of the cyber threat landscape and supporting businesses across all sectors to be more cyber resilient and develop their security practices and staff training. It will play a key part in supporting the region to recover from the devastating impact of COVID-19 and the unprecedented rise in cyber-attacks.1.2 How will the project be delivered, to and by whom? 
+Briefly explain: 
+* The specific activities that will be undertaken as part of the project 
+* Who are the target beneficiaries? 
+* Where the project’s activity will take place Where the activity will take place
+The purchase of the Lincoln Science and Innovation Park phase two development in Lincoln will provide the site for the Cyber Security Centre. It will function as working premises for KryptoKloud’s Security Operations Centre (SOC), and a training college delivered in collaboration with KryptoKloud and Lincoln College. This centre will provide a live learning environment for students, with classrooms matching the SOC used by cyber professionals. Equipped with cutting-edge technology, this state-of-the-art centre will also act as a vital tool for Lincolnshire Police and the NCSC to support the fight against cyber-crime. The following pictures depict how the centre may look:
+
+
+
+Beneficiaries
+
+The target beneficiaries include:
+- KryptoKloud, who will deliver their 24/7 Security Operations Centre from these premises;
+- Employers across all sectors, throughout Greater Lincolnshire, who wish to upskill their current IT / Cyber workforce but have not been able to access training provision to support workforce development;
+- Young people aged 16+ who want to work in the cyber security field and are considering an Apprenticeship; 
+- Individuals who have either lost employment, are at risk of redundancy, or are looking for a career change due to the effects of the pandemic;
+- Professionals transitioning from a career in the Armed Forces who are seeking employment in cyber-related fields;
+- Cyber professionals who require accredited training and upskilling;
+- Businesses across all sectors in the region through employee training, strategic support for senior leaders, and free cyber resilience audits to support them understand their srtrengths and vulnerabilities.
+- Businesses across all sectors who require a cyber-partner to provide them with critical intelligence, staff training, advanced threat protection services and act in an advisory capacity to ensure that they are supported to protect their businesses from cyber threats;
+- The Lincolnshire Police and National Cyber Security Centre, who will be provided with threat intelligence as it occurs across the Greater Lincolnshire region and beyond; 
+- Academics in HE and FE who can collaborate with the centre to undertake cutting-edge research. 
+
+Activities that will be undertaken
+Formal Education 
+The ETCC is a partnership between two very different organisations who have a shared vision. KryptoKloud will provide outstanding cyber security operations, advice, guidance and online training packages for the region’s workforce. Whilst Lincoln College will provide high quality, blended training delivery for apprentices, CPD training for cyber professionals and digital/IT staff looking to upskill in this area. Specifically, the ETCC will have the capability and capacity to deliver:
+
+* Level 3 Cyber Security Technician Apprenticeship
+* Level 3 Foundation Technical Level IT: Cyber Security
+* Level 4 Cyber Security Technologist
+* Level 4 Cyber Intrusion Analyst
+* Level 6 Cyber Security Degree Technical professional
+
+The Level 3 Cyber Security Technician Apprenticeship is due to commence delivery in September 2021.
+
+The live-learning environment provided by the SOC will provide fantastic experience for the apprentices, as well as learners receiving CPD. Students will be able to immerse themselves in the cyber environment and gain invaluable experience that would be unavailable anywhere else.  All learning programmes will be digitally led and incorporate remote-learning, mobile-learning and live-learning environments, with an intense focus on applied learning and employability. Apprentices will be placed in Greater Lincolnshire businesses to apply their new skills and knowledge, for both their benefit and that of their employer.
+
+Business & Employee Education
+There are 44,000 businesses in Greater Lincolnshire and of these, 41,000 are SMEs. There are 485,900 people in employment across Greater Lincolnshire, and a further 70,000 people who are self-employed. We propose to offer businesses and employees the following cyber support:
+* Monthly newsletter: sharing the latest information and advice to deal with current cyber threats;
+* Quarterly cross-sector webinars: to be delivered across sectors, raising awareness of current cyber threats and providing in-depth advice on action required to mitigate threats;
+* Quarterly industry-specific webinars: designed to provide sector-specific guidance on the threat landscape;
+* Cyber Audit: a free COBRA Lite Audit offered to all businesses in the GLLEP priority sectors.
+
+Following market analysis, research into Lincoln College and KryptoKloud marketing penetration rates and feedback from local organisations, in the first three years of delivery we will provide free training for: 
+* 1,800 businesses 
+* 10,500 employees 
+
+
+2. Project Need2.1 Why is the project needed in Greater Lincolnshire?The Greater Lincolnshire LEP has identified their priority sectors as 
+
+* Manufacturing
+* Health and Care
+* Agri-food
+* Visitor Economy
+* Low Carbon 
+* Ports & Logistics
+
+and all of them are vulnerable to cyber attack. The UK manufacturing sector has 2.6 million employees, provides 10% of UK output and 70% of business research and development, yet is amongst the least protected sector against cyber-crime in Britain. It is the third most targeted sector for attack, with only government systems and finance sectors more vulnerable. It is arguably the most important sector in the region in terms of economic contribution, numbers of people employed, its ability to attract inward investment and helping to put Greater Lincolnshire on the map but the risks to the sector are very real.
+
+‘Cyber-Security for Manufacturing’ report published by EEF in 2020 pinpointed the susceptibility of manufacturers to cyber risk. Of those surveyed:
+* 41% do not believe they have access to enough information to assess their cyber risk. 
+* 45% do not have access to the right tools for the job.
+* 33% are nervous of digital improvement. 
+* 12% admit they have no technical or managerial processes in place to start assessing the real risk.
+* 59% of manufacturers have been asked by a customer to demonstrate the robustness of cyber security processes.
+
+The last decade saw the UK visitor economy become one of the country’s fastest growing sectors, with a value forecast to reach £257bn by 2025. However, the global COVID-19 pandemic has had a devastating effect on the sector, with expected losses of £37bn in 2021. SMEs in the hospitality and leisure sector have been the worst affected, losing 54% of their monthly business income. As 98% of businesses in Greater Lincolnshire are SMEs, the region’s visitor economy sector is known to be struggling from the impact. On top of this, the sector is known to be underfunding cyber security measures and so is at great risk from attack. For example, the UK Food and hospitality businesses were those spending least on cybersecurity measures in 2018-19, with on average £1080 committed to measures in comparison with the average of £22,050 in financial and insurance firms. SMEs do not have available funds to commit to basic controls, let alone advanced threat protection, so those that have survived the pandemic are at further risk of losing their livelihood through a cyber breach.
+
+The importance of our Health and Care services has been brought into sharp focus in 2020 as a result of the COVID-19 pandemic. 67% of healthcare organisations suffered a cyber incident in the last twelve months. Between March-June 2020 the NHS alone received 41,624 malicious emails, each with the potential to bring vital healthcare services to a standstill. In March 2020, Quality Compliance Systems who provide compliance management systems to over 4,000 UK care homes were targeted in a phishing attack, and each time this happens organisations find themselves at significant risk of damage to aspects including patient care, staff welfare, reputation, and revenue. Attacks on this sector bring significant risk to life: cyber resilience is of paramount importance. Health care is the only industry globally where employees are the biggest cause of data breaches, and with high staff turnovers and shift-pattern working, the delivery of robust yet flexibly delivered training packages is vital to add staff as an extra line of defence for an organisation.  
+
+We have spent considerable time engaging and consulting with local SMEs, Lincoln BIG, Lincolnshire Chamber of Commerce, education partners, and other key stakeholders to design a project which responds to the needs of Greater Lincolnshire and the wider UK economy. It is evident that there are gaps to be filled: there are insufficient number of places to train for a career in cyber security; there is insufficient staff available to fill cyber security job vacancies as the sector struggles to meet the demand from businesses to provide 24/7/365 advanced threat protection; there is insufficient funding available to support businesses to adopt systems to protect their digital assets; there is insufficient support for businesses, especially SMEs, to train their staff to act as an extra line of defence to prevent cyber-attacks from taking place.
+
+The ETCC offers local organisations the opportunity to begin to rectify some of these issues, especially those relating to recruitment.
+
+The complexity of the recruitment and training landscape is clear. There is a lack of understanding within businesses about the roles that should be advertised, the training that is available and how to find appropriate candidates.
+
+The ETCC will resolve these issues by providing advice and guidance on how an organisation can best manage the threat, offering apprenticeships at a variety of levels, supporting with recruitment and selection and offering a pipeline of candidates with experience of the role through the SOC.  We know from experience that the opportunity to learn and work in live environments attracts a more motivated, engaged and resilient student and will ensure that they have relevant sector experience prior to employment.
+
+  2.2 What research or evidence has been undertaken to demonstrate the need, demand or impact of this project?  Please attach or provide links to completed studies and impact assessments where available.We have engaged extensively with cyber professionals, employers, education partners, and key stakeholder groups representing all industry sectors in and around Lincoln. We conducted our research via:
+* Focus groups
+* Roundtable discussions
+* 1-2-1 conversations
+* Attendance at employer workforce groups
+* Consultation with representative bodies and public sector departments 
+* Desk based research.
+
+All businesses take care to ensure that windows are securely shut and that doors are locked before going home at the end of the working day, physical security is paramount. However, a potentially catastrophic threat, cyber attack, is often ignored by organisations and as a result they are vulnerable. 
+
+Our research with local employers told us that the lack of cyber security in their businesses is something that causes significant levels of concern, however, the following barriers to recruitment of a cyber security specialist are:
+
+1. Skills gaps
+
+There just aren’t enough skilled and qualified people in the region to fill the roles that organisations seek to recruit. Skills lacking are technical skills, threat intelligence, incident response and forensic investigation.
+
+This is because the course/apprenticeship offer just isn’t available currently, so there aren’t sufficient individuals learning appropriate skills and ironically, when they do begin the training required they aren’t sufficiently engaged and retention rates are very poor. Attracting and retaining the right people is key.
+
+ETCC will resolve both issues by raising the profile of Cyber Security and ensuring that employers and prospective students both know where to go to get the skills needed and by providing state of the art facilities and a live learning environment that will maintain interest and engagement of the students and achieve 90-95% achievement rates. We will remove all of the noise for employers from the recruitment process by seeking to provide job-ready candidates with real life experience gained in the SOC. This will also eradicate one of the other issues raised by employers, in that they wouldn’t feel confident in their ability to test a candidate’s skills and ask the right questions at interview.
+
+ETCC will also seek to address the disparity of gender in the Cyber Security industry by recruiting more women, not only to bring in more qualified and skilled talent to meet employer needs but to ensure different perspectives are reflected in the classroom and teams.
+
+
+2. Lack of basic cyber security training
+
+Of the Lincolnshire employers that we spoke to, 76% said that they have never given any sort of guidance or training to their employees re the risks and dangers of cyber attack and how to spot a phishing attempt or similar.
+
+The main reason for this is a lack of confidence in the subject matter. Even if the organisation has an IT or digital team, and as 98% of our region’s employers are SME or Micro-businesses they are unlikely to, they generally don’t feel confident in this area and are reluctant to put themselves in a position where they may be unable to answer questions raised. 
+
+The ETCC can eradicate this issue by delivering introductory online cyber security training to all of a company’s employees and undertaking a Cobra Lite Audit to strengthen the knowledge and skill set of the IT team. 
+
+2.3 Please explain how the project will deliver the strategic objectives of the Local Enterprise Partnership area and will demonstrate alignment with other local growth priorities.  Please include how you will deliver against the Local Industrial Strategy and the  Covid Recovery Plan
+How will the project support the key principles of sustainable development – including Equality and Diversity assessments?  Will the scheme provide Net Zero Carbon solutions as part of its delivery?
+Will it support the government's Ten Point Plan for a Green Industrial RevolutionThe project is designed to focus on meeting the needs of Greater Lincolnshire through enhancing digital capability with a particular focus on cyber security. The project will support these areas as follows:
+* Early return on investment: The ETCC is a timely ‘shovel ready’ solution that delivers strong value for money and quick return on investment. Digital is an enabler across all sectors and has been identified as a priority cross cutting theme for GLLEP. The return on investment and added economic and social value of this project will be rapid. Professional training courses will deliver significant impact from September 2022 and fully qualified apprentices will be part of the Greater Lincolnshire workforce by 2024.
+* Drive up digital skills: This project will directly support the delivery of the objectives set out in the GLLEP Strategic Economic Plan (SEP) in relation to growth, skills, innovation, technology and promotion. It will support the LEPs goals to “develop initiatives that will encourage innovation in digital products and services” thus increasing business competitiveness and making Lincolnshire an attractive location for inward investors. 
+* Producing career ready employees: The project will enable Greater Lincolnshire employers to maximise the potential of their existing workforce via Cyber Security 'candidates-in-place' apprenticeship training and professional courses.
+* Introducing cutting-edge technology: The project will enable the creation of learning environments previously unseen in Lincolnshire, with state-of-the-art technologies focused on plugging skills gaps and training in the application of Cyber Security across all sectors. 
+* Enhanced information, advice and guidance: The project will support the development of the Cyber Security skills base of all sectors through enhanced information, advice and guidance, new qualifications and apprenticeships standards, and mentoring and support for businesses.
+LIS Priorities
+* Productivity growth: The project will directly drive-up productivity through highly trained apprenticeships that closely match industry requirements. Research shows that firms employing apprentices will benefit from increased long-term productivity. A typical apprentice delivers productivity gains of over £10,000 per annum. Even before an apprentice is fully qualified, many businesses will see the economic benefits of offering apprenticeships. Figures show that while training, each apprentice in England is estimated to deliver an average positive net gain of £1,670 per annum to their employers (Economic Impact 2015 UKGOV commissioned study).
+* Productivity growth: During a cyber attack, productive processes in some organisations will come to a halt, significantly affecting the productivity of an organisation. In the past 12 months large Greater Lincolnshire businesses have had their entire networks rendered useless by attacks, preventing any form of electronic communication from taking place. In manufacturing and engineering companies, production systems themselves are targeted, as weaponised cyber attacks on hardware controls seek to destroy industrial machines. Key players in the industrial sector are increasingly targeted, with hackers seeking to cause maximum damage by attacking automated processes and systems that control production machines. For example, a recent cyberattack against Iran’s nuclear facility actually led to its partial destruction. With an economic value of £3.4bn, an attack on the region’s Manufacturing and Engineering sector would have a significant impact on the region’s overall output and growth.
+
+The project will also focus on meeting the priorities of the LIS, focusing on the five foundations of productivity:
+
+Ideas  
+* Encouraging businesses to think differently about risks and respond to challenges and threats in a solution focused way. Through the sharing of best practice and sector focus events, we will encourage establishments to share experiences and support each other.
+People  
+* Employers across all priority sectors and throughout the whole of the GLLEP area have highlighted a need for digital skills training. The requests ranged from supporting staff with basic office skills to being able to protect an organisation’s data and IP from cyber-attack. Local businesses want to ensure that they have the skilled and capable workforce needed in an increasingly digital world, as a lack of digital skills is a common barrier to people fulfilling their potential and to organisations enjoying increased productivity and growth.
+* The project will support the enabling of residents to achieve potential in the local labour market and participate in the inclusive economy.
+* The working age population is shrinking and the ETCC will support the upskilling and retraining of the existing workforce.
+* The project will develop the pipeline of job-ready candidates that meets the need of regional businesses, filling key roles for which there is already a global talent shortage.
+* Help businesses adapt to market requirements and compete with those in other regions, securing more customers.
+* The Centre will help businesses to develop their employees and protect their businesses – with 87% of business leaders citing untrained staff as the greatest cyber risk to their business, this is a priority area.
+Infrastructure
+* Providing our region’s organisations with digital resilience, thereby enabling them to grow and survive in a changing environment by successfully implementing evolving strategies.
+* Provide the region with the training that the all sectors require to protect themselves.
+
+Business environment 
+* The project will support the large number of small and micro businesses in the region, providing advice, support and guidance and giving them access to the latest training and infrastructure.
+* Create a supportive business environment for entrepreneurs and SMEs – to grow and become more productive and resilient.
+* Support businesses to increase their confidence in their resilience and ability to protect their own position in the marketplace and their customers.
+Place
+* The Centre will facilitate recruitment and access to training in this area of digital skills.
+* The Centre is accessible for all businesses irrespective of location or size, providing solutions for all businesses across the whole region.
+
+Covid Recovery Plan
+* Workforce: since April 2020, the number of benefit claimants in Greater Lincolnshire aged between 16 – 24 has quadrupled and this programme will offer a modern, exciting place to learn and a career pathway into digital skills sector. New Apprenticeships and T-Levels linked to Cyber Security will be available for the first time in the region.
+* Workforce: the Centre will improve the visibility, awareness and accessibility to Cyber Security training, offering a broad range of study programmes and Continuous Professional Development courses at a variety of levels to suit all organisations and learners and providing them with an unprecedented opportunity to enhance their skills and progress within an exciting new sector.
+* Workforce: courses will be of high-quality and delivered in a blended fashion, providing access right across the region. Employers will be consulted on a regular basis and be given the opportunity to amend the focus of the curriculum to ensure relevance.
+* Drive investment, skills and growth: the curriculum will be employer-led and drive the skills agenda in this digital skills area.
+* Business Support: as an employer-led facility, the project will introduce training programmes for local businesses to help them understand what they can do to adapt to protect their organisation, their customers and enable them to be so resilient that they will be able to trade and to grow regardless of the number of attempted attacks.
+
+Supporting sustainable development: The project will support the key principles of sustainable development by providing opportunities to allow everyone to fulfil their potential. It will provide employers with the skills they demand and require - now and in the future. Throughout the project we will:
+o Carry out Equality and Diversity assessments;
+o Promote equality and diversity;
+o Monitor the use of resources;
+o Provide accessible training and skills provision;
+o Meet the needs and aspirations of young people and the community;
+o Ensure that best practice is disseminated as widely as possible.
+
+3. Project Timeline and Milestones
+Please outline the key steps that have been, or will be, completed to ensure delivery of the project Lincoln College has been developing the concept of this project for several months. As a result, we have already achieved important steps and milestones which provide high confidence that the project will deliver on time and to quality standards. Points of note include:
+
+* Identification of skills gap: In conjunction with stakeholders such as Lincolnshire Chamber of Commerce, Lincoln BIG, KryptoKloud and Lincolnshire Police, the College identified a need to enhance the region’s cyber security training offer in 2020. We explored this concept further with regional employers and local authorities. The message was consistent, that the region needed improved training provision to increase the resilience of businesses across all sectors. Courses identified are
+o Level 3 Cyber Security Technician Apprenticeship
+o Level 3 Foundation Technical Level IT: Cyber Security
+o Level 4 Cyber Security Technologist
+o Level 4 Cyber Intrusion Analyst
+o Level 6 Cyber Security Degree Technical professional
+* Initial design: several sites were explored for the ETCC. KryptoKloud currently operates on the site of the Lincoln Science and Innovation Park (LISP), and as LISP are progressing with phase 2 of their park developments, it was deemed to be a perfect location for the new centre. 
+* Project mobilisation: This is a ‘shovel ready’ project and we have put in place the necessary steps to ensure rapid project mobilisation if successful with a future bid. As part of the Phase 2 development of the Lincoln Science and Innovation Park, the location identified will be complete by Summer 2022 and the project will be operational immediately, as any amendments to the configuration of the space and the integration of the equipment required will be completed within 48 hours of handover. 
+* Early outcomes: Although the building won't be available for use until Summer 2022, the project will still be able to deliver outcomes from as early as September 2021. Through the partnership between Lincoln College and KryptoKloud, we will deliver the apprenticeships programme using Lincoln College facilities until the centre is able to open.
+
+MilestoneForecast DateCommentsRIBA Stage 1Risk Register createdOct 2020Outline Project Programme developedOct 2020Initial scheme design completeOct 2020Feasibility work completedNov 2020RIBA Stages 2, 3 & 4Acquisition of statutory powersn/aConfirmation of Project BriefDec 2020Community & stakeholder engagementDec 2020Utility company engagementn/aDetailed design completedMarch 2021Cost Plan producedNov 2020Planning application submittedn/aMatch funding securedOct 2020Planning permission securedn/aGLLEP Due Diligence Appraisal SubmissionTBCGLLEP Funding Agreement CompletedTBCProcurement process issuedTBCProcurement contracts awardedTBCRIBA Stage 5Start of construction/schemen/aCompletion of construction/schemen/aPost Construction RIBA Stages 6 & 7Start of activityJuly 2022Claim submission and monitoring underwaySept 2022Outcome review – Evaluation report providedTBC
+Where RIBA stages do not apply please provide details on any other key work or stages that need to be completed (by when) to ensure delivery
+
+MilestoneForecast DateComments
+4. Options Analysis4.1 Why should the project receive LEP funding?Why should we benefit from LEP funding?
+
+Project aligns with the GLLEP Strategic Economic Plan, the LIS and the Covid Recovery Plan
+
+ETCC is of strategic importance to GLLEP and will provide Greater Lincolnshire wide digital skills solutions to protect and support economic growth and competitiveness across all sectors.
+
+* It supports business productivity and economic growth via the delivery of new apprenticeships standards, bespoke short courses, by offering blended CPD and by increasing awareness of all the region’s employees to the methods of cyber terrorists.
+* ETCC will provide a state-of-the-art live learning environment delivering training that develops a talent pipeline that provides employers with a pool of skilled people to meet skills gaps and growth potential. 
+* It will support residents made redundant during the pandemic and the long-term unemployed to pursue a new and exciting career pathway.
+* It will train existing and new employees to protect the priority sector businesses that are so crucial to the economic success of the region.
+
+
+Value for Money
+
+* ETCC will deliver outcomes from September 2021 providing a prompt return on investment and measurable impact across all priority sectors. It will encourage and support local businesses to transform and innovate, grow revenue, operate more efficiently and develop capability.
+* The project will develop and offer online Cyber Security training to all 44,000 of the region’s businesses.
+* The project is low risk- Lincoln College are an established organisation with expertise in delivering high profile capital projects.
+
+
+Employer led
+
+* The Lincoln College mission statement is to be ‘Employer led; producing a highly skilled and productive local workforce.” 
+* We have undertaken extensive consultation over the past 6 months in the development of this project. ETCC is a direct response to employers’ needs and industry body recommendations and addresses the gaps which they have highlighted in both recruitment of ‘hard to fill vacancies’ and the delivery of this specialised training. 
+
+Inclusivity of bid
+
+* ETCC will offer region wide support to all GLLEP priority sectors.
+* It will support employees from all sectors to explore new career pathways and provide young people with access to a new and exciting career that is not industry or sector specific.
+* The bid will make the same level of support accessible to all of the region’s organisations regardless of size.
+
+
+4.2 What other funding or delivery mechanisms have been considered to deliver the proposed activity?Potential funding opportunities are limited for a project of this scale and without additional funding this project would be unable to proceed. 
+4.3 Additionality: What will the project deliver above and beyond what would happen anyway?Additionality
+ETCC will: 
+* Meet the training needs of local employers: ETCC will deliver new training courses that meet the needs of all of the region’s employers, thereby providing a pipeline of job-ready employees to fill roles that are classed as ‘hard to fill’ vacancies and an accessible source of CPD for existing staff.
+* Improve the quality of Cyber Security protection: by offering support and training to all employers, ETCC will increase the level of security of the region’s businesses against cyber attack. Training will deliver a consistent message to learners, helping them to understand what the risks are and how their company could be targeted. The project will create a digital course created for general consumption by all of our businesses’ staff which will significantly strengthen the first line of defence.
+* Provide new, exciting careers for individuals post Covid-19: the Cyber Security Centre of Excellence will support individuals who have been displaced from employment with an opportunity to train for a new, exciting career in a setting that combines cutting-edge equipment with a live-learning environment.
+* Work in partnership with a key local business: we have an agreement in principle to work in partnership with the KryptoKloud Ltd who will support delivery of the courses via access to both industry experts and work placements, offering access to blended provision that isn’t available in the region and is a digitally based experience.
+* Provide investment in new resources for academic delivery and employer training to meet the skills needs of employers across all sectors.
+* Business support for start-ups in the sector - NBV Enterprise Solutions will provide a Business Advisor to run sessions to develop new ideas.
+* Deliver new apprenticeship standards that are employer led.4.4 Scalability: What would happen if reduced LEP funding was available?In the instance of reduced LEP funding, the ETCC project would be unable to take place as proposed, as the cost of purchase of a building to house the Centre of Excellence would be too much for Lincoln College to bear alone. 
+
+Student Impact
+
+Students would lose the opportunity to benefit from a live learning environment and from access to modern, cutting edge facilities that would lift their learning from the realms of theory into practical experience.
+
+The Centre of Excellence does exactly that, bringing their courses to life by offering the opportunity to ‘do’ rather than just learn. This would improve enrolment numbers to the courses, retention rates, achievement rates and positive destination rates for the students involved.
+
+Employer Impact
+
+Employers are increasingly requesting access to Cyber Security training for existing staff members and to fill new roles. There are currently very limited opportunities to learn these skills in the region and the equipment that is available to support the delivery isn’t suitable. If the opportunity to provide a modernised learning space where students could gain practical vocational experience was unavailable, it would have an adverse effect on the region’s employers ability to protect their organisation, would render the Cyber Security roles almost impossible to fill and deny the opportunity for CPD in the region.
+
+Reduced Funding
+
+If a reduced value of funding was made available we would be willing to enter discussions with GLLEP to determine best value for money, despite the significant risks to the feasibility of the project. The property purchase to create the Centre of Excellence is fundamental to the project.
+
+5. Proposed Costs 5.1 Funding ProfileYear 1
+2021/22Year 2
+2022/23Year 3
+2023/24Year 4 2024/25Year 5
+2025/26Totali) Capital LEP£1,417,2780000£1,417,278PublicPrivate£763,1500000£763,150Total Capital£2,180,4280000£2,180,428ii) Revenue CostsTotal revenueTotal Project Costs£2,180,428£000£2,180,428Total LEP Funding£1,417,278£000£1,417,278
+5.2 Please provide more detail on what LEP funding will be specifically spent onLEP funding will be spent on the purchase of a suitable building to create the UK’s first Cyber Security Centre here in Lincolnshire. The project also includes the purchase of materials and equipment required to fit out the working Security Operations Centre, offices, training rooms and meeting spaces. All construction work will be at least BREEAM very good.
+
+Cyber Security Centre: Detailed Capital Budget Structure£122,745Superstructure£369,615Internal finishes£104,819Fixtures, fittings and equipment £30,320Services £243,880External works£172,640Facilitating works£36,750Main contractor preliminaries£108,000Main contractors overheads and profit£58,856Construction Contract£1,247,625Project design fees£66,500Other development costs £27,535Risk Allowances£100,686Inflation£54,154Other Build Costs£248,875Specific IT  £453,549Other furniture £230,379Total Equipment £683,928  Total Capital Project Cost [Please refer to 5.1 for the source and profile of the funding]£2,180,428                                                                5.3 Please detail the key assumptions used in the development of your budget and the research completed to prepare it, including how you ensure that the costs are commensurate with the required quality. The budget has been developed from a combination of sources, including; 
+* Firm quotations for goods and services from suppliers;
+* Assessments and professional judgements from externally appointed consultants (including architects, project managers, quantity and building surveyors);
+* In-house expertise with extensive experience of managing infrastructure projects;
+* Analysis of the property market and identification of suitable properties; 
+* Assessments and professional judgements from internally appointed experts – Head of Estates Development;
+* Evaluation against recent investments and via assessment of prices through established procurement consortia and frameworks.
+
+The College has worked in partnership with LSIP, KryptoKloud and Gleeds from feasibility to the planning stage to ensure a framework is in place to apply checks and balances ensuring that the cost plan takes into account stakeholder quality requirements. ICT costs have been evaluated against recent investments and via assessment of prices through established procurement consortia and frameworks, and thus are up-to date and accurate for February 2021 pricing. 
+5.4 State the source(s) of your match funding, whether it is in place and if not, when is it likely to be confirmed? 
+SOURCE OF FUNDING£000%StatusGLLEP capital investment fund1,41765PendingKryptoKloud22810ConfirmedOwn reserves53525ConfirmedTotal funding 2,180100
+6. Forecast Outputs6.1 Output Profile2021/222022/232023/242024/252025/26Future YearsTotali) Core Outputs (Strategic Economic Plan)Public Investment Leveraged (£)763,150763,150Private Sector Investment Leveraged (£)Number of new Jobs Created (gross) 6101430Number of Jobs Safeguarded (gross)Number of new housing units completedii) Local Strategic OutputsCommercial floorspace refurbished/constructed and occupied (sqm)New training/learning space refurbished/constructed (sqm)540540Number of businesses assisted to improve performance6007008008502,950Number of learners supported3,0633,5754,0874,34515,070Number of new businesses created01236GVA Upliftiii) Others (please list) **please refer to appendices for full list of BIS indicators
+
+6.2 Please describe the rationale and assumptions you have made in establishing the outputs and results which will be achieved. This must link clearly to the project’s activity and objectives. Please explain your method for calculating the target levelsLincoln College has extensive experience of budgeting and forecasting performance outputs, with a dedicated team of staff working with our Director of Performance and Planning, who will develop a budget for recruitment, retention and achievement in every curriculum area and across all types of delivery. Their job is to work with departments to develop a budget for recruitment, retention and achievement in every curriculum area and across all types of delivery. Once the budget has been agreed, they will provide Management Information to support the delivery managers track and forecast performance outcomes throughout the year. The Performance and Planning team were consulted extensively in the formulation of the outcome proposals of this project.
+
+
+Number of new jobs created
+
+The new roles created are a result of the growth of the workforce at KryptoKloud. These additional roles will be required to:
+* Deliver training programmes in the ETCC; 
+* Enhance our SOC team to meet the needs of the growing numbers of clients requiring cyber support; 
+* Provide support for Greater Lincolnshire businesses; 
+* Recruit apprentices and other entry level personnel to give them the best start to their careers. 
+
+
+Number of Learners Supported
+
+Designed to deliver specialist digital skills support to the region’s organisations, ETCC will offer a broad range of qualifications from short courses designed to increase awareness of cyber crime and how to protect your place of work, through to degree level Higher Apprenticeships to become a cyber security professional.
+
+State-of-the-art training facilities, live learning, paid work experience and a relatively new and exciting career opportunity, will all result in high application rates for the opportunities available and subsequently lead to very high retention and achievement rates amongst the students. Whilst the ETCC will not be ready to welcome learners until September 2022, the first apprenticeships will begin in September 2021.
+
+Also included within the forecast are the number of learners employed by local businesses who will engage in bespoke online cyber training that will raise awareness amongst the region’s employee base and CPD applicants, for whom we have budgeted 12 per quarter.
+
+Number of businesses assisted to improve performance
+
+The Lincoln College mission is to be ‘employer-led; producing a highly skilled and productive local workforce’ and this goal is at the heart of all of our decisions as a college. Everything that we do is with the aim of making local employers more productive and to enhance their performance, whether it’s in producing students with the highest possible academic grades or delivering the best apprenticeship service and results. Our Career Colleges reflect this ethos by working closely with local organisations to ensure that we meet their needs and produce the very best employees for the sector and ETCC is based on the same model.
+
+The numbers included in the table above relate to employers who will receive a Cobra Lite Audit, a quarterly cyber skills newsletter and training webinar, Skills Needs Analysis, CPD and workforce development either at our ETCC campus, at the workplace or remotely via our digital capability, or those who seek to engage an apprentice from one of the departments supported by the project.
+
+New Businesses created
+
+This is the number of new businesses that will be created via our partnership with NBV who have significant experience of delivering new business advice all over the country. We believe that following the training and support provided by ETCC, some learners will chose to set up their own Cyber Security Consultancy, Training or Support business and have used the NBV forecasting guidance to model the number of new businesses that can be expected to be developed in the region.
+6.3 Please outline how the project will gather and assess evidence of outputs and results, in line with the LEP's Monitoring and Evaluation Framework Lincoln College’s Group Director of IT & Projects will lead the project, he will be responsible for implementing a multi-disciplinary project delivery team ensuring that evidence of outputs and results of agreed monitoring metrics are gathered and assessed in line with the LEP’s monitoring and evaluation framework.
+Lincoln College measures a variety of Key Performance Indicators (KPIs) to monitor and improve performance and assess evidence of outputs; these are recorded on the organisations Top Level Scorecard. 
+
+These measures are interrogated and challenged at various levels, and in various forums. The groups, reviews and processes outlined below are integrated into the improvement cycle, ensuring that the College meets the needs of learners and employers. Regular assessment of success in the above areas allows us to make quick responsive decisions where there are tactical needs. They also allow us to formulate considered and evidence strategies for the future. These include our Employer Engagement Strategy which reflects the local skills needs and LEP priority sector areas, Change Management programmes and staff objectives and appraisals. 
+
+Executive Leadership Team. Key measures are interrogated and discussed monthly by senior managers, based on the scorecard and dashboard.
+Quarterly Performance Reviews. A formal review of performance in all relevant areas, led by the Chief Executive, is intended to provide assurance and development in key areas, with agreed actions to make improvements where necessary.  
+Managing Directors Reviews. Monthly reviews of performance, led by the MD of Education and Training and attended by the Director of Apprenticeships, Director of Employer Provision and Director of Planning and Performance. 
+Monthly Funding Meetings. Focused on important funding and compliance KPIs, provides scrutiny over learner numbers and income performance, and mitigating actions are agreed here where required. College targets are to exceed National averages timely and overall framework achievement by 3%.
+Fortnightly Review Meetings. The Head of Apprenticeships & WPL and Training & Skills Leads meet fortnightly to review all data, applications, enrolments, retention and achievements. Any problems are discussed and support is put in place for ‘at risk learners’.  Apprenticeship data and KPIs are reviewed by the Employer Provision management team on a monthly basis.
+
+KPIs form the basis of both the College’s Apprenticeship strategy and operational plan as well as individual performance objectives. The majority of the College’s KPI’s align with the LEP’s monitoring and evaluation framework, however if there is something more specific we would comply and ensure that monitoring is established.  There are several key measures evaluated that cover three important areas: Responsiveness to Employer Need, Quality for Learners, and Destination Outcomes.  
+
+There are a number of factors and measures we consider when setting outcome targets. Additionally, these targets may be set at different levels – for example at individual/learner, employer, sector and regional level. 
+
+Impact Measurement and Outcome Analysis: Learners and Employers. Learner impacts are measured individually and across different data sets. Individually, we consider the impact on the learner of achieving the qualification in the context of their ability to occupy their role successfully and deliver value to their employer progression to the next level of learning. These are measured and recorded at the exit interview with the learner and employer and tracked through their individual learner record. 
+
+We also consider the improved employability and behavioural skills, and their impact. This will be measured through enhanced job roles ie promotion or increased responsibility, progress towards these goals will be recorded at 10 weekly progress reviews and final progression at exit interview, all reviews are completed with the employee and the employer and tracked and recorded within the Employer Responsive Team. 
+
+The Organisational Needs Analysis and associated Learning Plan identifies the agreed outcomes and business impacts agreed with employers. We measure the effectiveness of the training on the employer’s business objectives immediately post-achievement, and then again after an agreed period of time. This feedback loop and self-assessment for improving planning and delivery in future to employers is crucial, following the post-training review.
+It will be the responsibility of the project delivery team to collate data on the monitoring metrics and generate quarterly reports for monitoring and evaluation review meetings incorporating local economic updates and data from the quarterly economic surveys.  
+
+Starts vs. Achievements and Learner Retention. This is a key indicator and is directly relevant to the success of our provision. These are monitored on a weekly basis, with future achievement rates projected through our ProTarget application. This enables us to quickly identify any potential areas of concern to take remedial action if required in a timely fashion. This is important due to the correlation between apprentice achievement rates and employer satisfaction and impact. We also monitor retention by sector and qualification to ensure individual apprentices are satisfied, and to incorporate feedback from leavers to improve programmes. 
+
+Learner Destinations. Progression KPIs are established at the beginning of the programme (whether in work, career progression or further qualifications) to ensure that our programmes are having a clear impact. We monitor this intelligence to inform the quality of both our curriculum delivery and the business consultancy we offer to employers at the beginning of the programme.
+
+Future Numbers (Pipeline) and Forecasts. Our future numbers are monitored through a Business Development Pipeline. We build a detailed profile of planned sectors, frameworks and standards for the year, and build capacity accordingly. Monitoring our future pipeline and forecasts ensures that we balance this capacity with employer demand and keeps us on track to service those sectors and employers where we have identified demand through our various Labour Market Intelligence studies. Additionally, monitoring these KPIs ensures that capacity can be increased accordingly should there be additional demand in a particular area in-year.
+
+Number of Students. Connected to the above, the number of students benefitting from our Apprenticeship programmes is monitored to ensure that our capacity and capability is adequate to meet employer demand at any time. 
+
+Destination. Achievement gaps are reduced in several ways. First, by ensuring that students with particular needs receive appropriate information and guidance in order to fully determine additional support needs from the outset. Management data is produced monthly to compare performance (e.g. recruitment, retention, achievement, progression) of learners against targets to determine achievement gaps and deliver actions to reduce these. 
+Desired progression (whether into work, career progression or further study) is agreed at the programme start, with a clear roadmap to further qualifications.
+
+7. Management & Control7.1 Please describe whether or not the necessary team is in place to carry out the proposed activity in Greater Lincolnshire and if not what the plans are to recruit the relevant expertise? Please insert structure chart, if available.Lincoln College has extensive experience of carrying out projects which require new build, refurbishment, purchasing of equipment and the reshaping of education and training. We have allocated staff to the project team and where necessary have held back on some appointments pending notification of further funding. 
+
+Key points regarding the team are as follows:
+* Proven track record: We will draw on our proven reputation of delivering high profile infrastructure and education projects and programmes both nationally and internationally. The project will include staff with experience of substantial new build programmes, as well as projects to transform existing parts of our estate. Our experience includes:
+o Since 2016, opening five new micro-college campuses, in 2016 the Construction College in Gainsborough and the Air and Defence Career College in Lincoln and in 2019 the Lincoln Construction College, Care College and Policing College.  These offer employer-led, career focused education and technical training for 16 -19 year olds. 
+o Since 2016 LCG mobilised five new further education colleges in the Kingdom of Saudi Arabia as part of the Colleges of Excellence programme,  providing teaching space for over 10,000 students.
+o Newark Academy, we led the construction and relocation of the Academy to a brand new £15.5 million school as part of the Priority School Building Programme in 2015/16. 
+o Deans Sport and Leisure, 2012/13 we opened one of the best sport facilities in Lincoln, offering fitness suites, squash and tennis courts, a spa and floodlit all weather pitches, as well an internet cafe, juice bar and many corporate facilities, such as conference and meeting rooms. 
+o Made in Gainsborough, development of a bespoke Engineering training centre in conjunction with local employers.
+* Strong project management experience: We have experience of operating collaboratively with multiple partners, and have extensive programme resources, knowledge, expertise and skills to deliver the project and mitigate associated risks. A project delivery plan is in place, with progress regularly monitored by our Group lead for projects using Prince 2 and Managing Successful Programmes (MSP) approaches.
+* Project team: We will deploy a team of in-house expertise and externally sourced advisors to ensure the best mix of resources.
+o Graham Harrison, Group Director of IT, Information Management and STEP will lead the project. 
+o He will be responsible for implementing the project delivery plan. This will include key milestones, monitoring/reporting requirements, financial controls and a risk register. 
+o He will report on progress direct to the College Executive Leadership Team on a monthly basis. 
+o He will lead a multi-disciplinary project delivery team including the Group Head of Infrastructure, Facilities and Estates, the Vice Principal, Curriculum, and the Group Director of Finance and Commercial. 
+o This project team will be supported by other College business support teams as appropriate. Any additional recruitment needs that may be required as the project progresses will be managed quickly and effectively by Lincoln College Group's in-house agency, FE Resources.
+
+
+
+Equipment sourcing:
+We will source any equipment purchases responsibly. Lincoln College will ensure that it follows the GLLEP's procurement requirements when selecting goods and services funded by the LEP. The College follows public sector procurement guidelines and has a procurement policy in place that details the regulations, responsibilities and accountabilities for the procurement of goods, services and works.
+7.2 State Aid:  The Greater Lincolnshire LEP and its accountable body are required to ensure that funding complies with the rules on state aid. State aid is any advantage granted by public authorities through state resources on a selective basis to any organisations that could potentially distort competition and trade in the European Union (EU). If your project proposal constitutes state aid we will be unable to fund it unless you can demonstrate that it is outside the scope of or exempt from state aid rules. If you believe this to be the case please provide an explanation below. Lincoln College is a Further Education College which became incorporated under the 1992 Act of Parliament. The College has charitable status and its prime function is the provision of further and higher education.
+State aid involves using funding from a public body to provide support in a commercial enterprise that might distort competition and affect trade in the EU. EU rules contain a number of exemptions which allow public bodies to intervene in the economy and to offer funding to address market failure. These exemptions allow public bodies to provide funding for a number of areas including education and initial pre-employment training and certain training aid with conditions around employer co-funding.
+ 
+We consider that funding from the LEP for this project would not constitute state aid under EU regulations as the majority of the college’s activities fall under these exemptions.7.3 Please explain the key risks identified for the project and how these will be managed and mitigated throughout the project.  Please attach separate risk register, if available.
+RiskOwnerProbabilityImpactMitigation-
+Director of Business DevelopmentLowHighSegmentation of outcomes to reduce risk and ensure quick wins. Project based on employer feedback and demand. Business Development Team and Steering Group to ensure that project maintains a relevant offer with flexible delivery models that meet employer need.
+Delays with refurbishmentGroup Head of Infrastructure, Facilities and EstatesLowLowTimely award of procurement and award of contract, clear expectations within the contractAvailability of specialist equipmentGroup Head of Infrastructure, Facilities and EstatesLowHighEnsure requirements fully researched and lead times are clearly identified and understood. Procurement processes followedAccidents on siteGroup Head of Infrastructure, Facilities and EstatesLowMediumThe College will create and enforce a robust plan to ensure that the site and all people on it and around it will be safe whilst the project is underwayCost exceeds estimatesGroup Head of IT Information Management and STEPLowHighProjected costs are based on current
+supplier’s information. Robust tendering
+procedures will enable competitive prices
+for equipment to be secured.CashflowGroup Director of Finance and CommercialLowHighRobust internal financial reporting systems are operated. A project specific cashflow has been developed to track actual v planned income and expenditure; to be reviewed monthly. Agreement with the bank to ensure facility to cover cashflow.Purchase of property – properties identified no longer availableGroup Head of Infrastructure, Facilities and EstatesMediumHighIdentification of other suitable premises, discussions with agents. Delivery within temporary facilities until a property located.8. Supporting documents checklist Where applicable, please submit the following documents with your Full Application  
+DocumentSupporting NotesApplicant’s commentsProject Site Plan and copy of relevant planning permissionsShowing clear boundaries of all areas to be included in project Explanation of match funding arrangements and estimated timescale for approvalThe GL LEP will need to understand where match funding will be sourced from in order to demonstrate deliverability of the overall schemeDetailed cashflow and breakdown of budgetTo demonstrate a) cost items are eligible for GL LEP Funds b) the forecast cost c) how the costs will be profiled across the project lifetime.If applicable, proof of irrecoverable VAT on eligible costsPlease supply proof of irrecoverable VAT on eligible costs Applicant organisation’s relevant policies, including Equality & Diversity Policy, Sustainability PolicyYou are responsible for ensuring any Delivery Partners hold a policyGantt Chart To reflect the key milestones during project set-up, implementation and closure. Organogram An up-to-date organisation chart, including the GL LEP Funds project delivery team. Also, for delivery partners, if applicable. Applicant’s procurement policy if available Note that LEP procurement rules supersede organisation’s procurement policy Other Any other key, relevant, documents you consider should be submitted including project feasibility studies and impact assessments. 
+9. Links for further informationLocal Assurance Framework 
+Industrial Strategy
+Department for Business, Energy and industrial Strategy: State Aid Guidance 
+10. DeclarationI declare that I have the authority to represent Lincoln College in making this application. I understand that acceptance of this Application does not in any way signify that the project is eligible for Greater Lincolnshire Local Enterprise Partnership support or that LEP Funds has been approved towards it. 
+On behalf of Lincoln College and having carried out full and proper inquiry, I confirm to the Greater Lincolnshire LEP: 
+* Lincoln College has the legal authority to carry out the project; and 
+* That the information provided in this application is accurate. 
+
+I confirm to the Greater Lincolnshire LEP: 
+* I have informed all persons in relation to whom I have provided personal information of the details of the personal information I have provided to you and of the purposes for which this information will be used and that I have the consent of the individuals concerned to pass this information to you for these purposes. 
+* That I shall inform the Greater Lincolnshire LEP if, prior to any LEP Funds being legally committed to Lincoln College if I become aware of any further information which might reasonably be considered as material to the LEP in deciding whether to fund the application. 
+* An explanation of all match funding arrangements to deliver the scheme will be provided to the Greater Lincolnshire LEP prior to the award of LEP Funds. 
+* I am aware that if the information given in this application turns out to be false or misleading the Greater Lincolnshire LEP may demand the repayment of funding and/or terminate a funding agreement pertaining to this Application.
+* All relevant documents are retained with a view to providing relevant information in the event of an audit or other investigation
+
+I confirm that I am aware that checks can be made to the relevant authorities to verify this declaration and any person who knowingly or recklessly makes any false statement for the purpose of obtaining grant or for the purpose of assisting any person to obtain grant is liable to be prosecuted. A false or misleading statement will also mean that approval may be revoked and any grant may be withheld or recovered with interest.  I am aware that if the Applicant commences any project activity, or enters any legal contracts or makes any binding commitments, for which LEP funding is sought (including the ordering or purchasing of any equipment or services before both the formal approval of the project and the execution of the Greater Lincolnshire LEP Funding Agreement), that this expenditure is incurred at the Applicant’s own risk as it may not be compliant with Greater Lincolnshire LEP funding requirements.
+Signed …. For and on behalf of the Applicant Organisation
+
+Name (BLOCK CAPITALS) JAMES FOSTER    Date: 14th February 2021
+11. Next StepsPlease forward the completed version of this form by 15th February 2021 to: greaterlincslep@lincolnshire.gov.uk.NameJames FosterAddressMonks Road, Lincoln, LN2 5HQEmailjfoster@lincolncollege.ac.uk
+
+Appendix 1 – BIS Project Monitoring Core Metrics (to be collected for all projects and programmes)
+UnitFrequencyDefinitionData SourceInputsExpenditure£, by sourceQuarterlyExpenditure defrayed directly on the intervention, broken down into LGF funds, other public sector funds and private funds.  Where expenditure takes the form of grant support to applicants (e.g. skills capital, some business support), the amount of grant paid to successful applicants should be reported (not the amount approved).LEP Monitoring InformationFunding breakdown£, by sourceQuarterlyNon LGF Funding delivered - including public, private and third sector match funding, broken down by source. This should not include in-kind contributionsLEP Monitoring InformationIn-kind resources providedQualitativeQuarterlyLand, buildings or other assets provided to resource the interventionLEP Monitoring InformationOutcomesJobs connected to the interventionFTEsAnnuallyPermanent paid full time equivalent jobs that are directly connected to the intervention, measured by FTE at predetermined "impact sites". This includes:
+- Employment on occupied commercial premises (in the case of site development)
+- Employment in supported enterprises (in the case of business or innovation support)
+- Employment in FE space directly improved or constructed by the intervention
+"Impact" sites are those sites where there has been a demonstrable unlocking impact as a result of Growth Deals projects (e.g. transport, skills capital) - these sites of "impact" are to be mutually agreed by LEP/HMG in advance of reporting. Excludes jobs created solely to deliver the intervention, e.g. construction jobs.  Likely to require primary survey work. Employment is counted gross - no account of deadweight or displacement at the monitoring stage.Scheme sponsorCommercial floorspace constructedsq m, by classAnnuallyFor both direct employment sites and "impact" sites, the area and class of commercial floorspace completed. "Impact" sites are defined as for jobs created above. Floor areas should be measured in accordance with the RICS Code of measuring practice (6th edition) 2007. A building should be classified as completed once it is on the non-domestic rating list. Does not take account of refurbished floorspace.Scheme sponsorHousing unit startsNumberAnnuallyFor both direct housing sites and "impact" sites, the number of housing units completed. "Impact" sites are defined as for jobs created above.Scheme sponsorHousing units completedNumberAnnuallyFor both direct housing sites and "impact" sites, the number of housing units completed. "Impact" sites are defined as for jobs created above.Scheme sponsor
+Appendix 2 – BIS Project Specific Outputs and Outcomes (to be collected where relevant to the intervention)
+UnitFrequencyDefinitionData SourceActivity / Output CharacteristicsTransportTotal length of resurfaced roadsKmQuarterlyLength of road for which maintenance works have been completedScheme sponsor monitoring informationTotal length of newly built roadsKmQuarterlyLength of road for which works have been completed and now open for public useScheme sponsor monitoring informationTotal length of new cycle waysKmQuarterlyLength of cycle way for which works have been completed and now open for public useScheme sponsor monitoring informationType of infrastructure deliveredBi-AnnuallyIdentify what has been constructed as a result of the project - utilise units where appropriate e.g. length of cycle pathScheme sponsor monitoring informationType of service improvement deliveredBi-AnnuallyIdentify the nature of service improvement as a result of the intervention e.g. improved bus serviceScheme sponsor monitoring informationLand / Property Flood ProtectionArea of site reclaimed, (re)developed or assembledhaQuarterlyArea of land directly improved by the project that is now suitable for commercial development where previously it was unattractive to commercial developers. Reclaimed: making the land fit for use by removing physical constraints to development or improving the land for hard end use; providing services to open it up for development, e.g. provision of utilities or service roadsScheme sponsor monitoring informationUtilities installedQuarterlyIdentify what has been constructed as a result of the project. Drop down list: water pipe; gas pipe, electric cables, internet cable. And km of cabling/pipingScheme sponsor monitoring informationArea of land experiencing a reduction in flooding likelihoodhaQuarterlyArea of land with a reduced likelihood of flooding as a result of the projectScheme sponsor monitoring informationBusiness Support, Innovation and BroadbandNumber of enterprises receiving non-financial supportQuarterlyNumber of SMEs receiving support (including advice and training) with the intention of improving performance (i.e. reduce costs, increase turnover/profit, innovation, exporting). Value of the support should be a minimum of £1,000, calculated at Gross Grant Equivalent (see ERDF guidance) or a minimum of 2 days of consulting advice.Scheme sponsor monitoring informationNumber of new enterprises supported
+QuarterlyAs above, but businesses that have been trading for less than three years.Scheme sponsor monitoring informationNumber of potential entrepreneurs  assisted to be enterprise readyQuarterlyNumber of individuals receiving non-financial support (i.e. advice or training) with the intention of commencement of tradingScheme sponsor monitoring informationNumber of enterprises receiving grant supportQuarterlyNumber of SMEs receiving grant funding support with the intention of improving performance (i.e. reduce costs, increase turnover/profit, innovation, exporting). To be counted where the support is at least £1,000.Scheme sponsor monitoring informationNumber of enterprises receiving financial support other than grantsQuarterlyNumber of SMEs receiving funding support in the form of equity or repayable loan instruments with the intention of improving performance (i.e. reduce costs, increase turnover/profit, innovation, exporting). Counted where amount of support is at least £1,000.Scheme sponsor monitoring informationAdditional businesses  with broadband access of at least 30mbpsQuarterlyFor broadband interventions only:
+number of additional commercial premises that, as a result of intervention, now have the option to access broadband of at least 30mbps (average), where this was not previously the caseScheme sponsor monitoring informationSkills CapitalNew build training/learning floorspaceSq mQuarterlyThe amount of "new build" training/learning floorspace constructed. Figures to be provided following completion.LEP to record from Post Occupancy Evaluation reports (standard reports submitted to SFA  on project completion) and/or project implementation reports submitted by colleges/providers  Refurbished training/learning facilitiesSq m (where FE colleges are involved, by estate grading)QuarterlyThe amount of new training/learning floorspace refurbished to improve building condition and/or fitness for purpose. For FE colleges, this should be by estate grading. Figures to be provided following completion.LEP to record from Post Occupancy Evaluation reports and/or project implementation reports submitted by colleges/ providers  Floorspace rationalisedSq mQuarterlyThe amount of overall floorspace reduced following completion of the project through, for example, demolition or disposal. Figures to be provided following completion.LEP to record from Post Occupancy Evaluation reports and/or project implementation reports submitted by colleges/ providers  OutcomesTransportFollow on investment at site£, by sourceAnnuallyFor "impact" sites, the volume of public, private or third sector investment undertaken at the site over and above that directly associated with the Growth Deals project, where there is a demonstrable link with the Growth Deals project. This should not include in-kind contributions. "Impact" sites are those sites where there has been a demonstrable unlocking impact as a result of the Growth Deals transport project - these sites of "impact" are to be mutually agreed by LEP/HMG in advance of reporting. Likely to require primary survey work. Deliberately constructed as a gross measure, no correction for deadweight or displacement to be applied at this stage.Scheme sponsorCommercial floorspace occupiedsq m, by classAnnuallyFor "impact" sites, the area and class of commercial floorspace completed that is currently occupied by commercial tenants. "Impact" sites are those sites where there has been a demonstrable unlocking impact as a result of the Growth Deals transport project - these sites of "impact" are to be mutually agreed by LEP/HMG in advance of reporting. Likely to require primary survey work
+Impacts are gross - no account of displacement. This outcome is a further link of the chain proceeding from follow-on investment rather than a completely separate outcomeScheme sponsorCommercial rental values£/sq m per month, by classAnnuallyThe market rate for leasing commercial floorspace at the "impact" siteScheme sponsorLand, Property, and Flood ProtectionFollow on investment at site£, by sourceAnnuallyFor the project site, the volume of public, private or third sector investment undertaken at the site over and above that directly associated with the initial Growth Deals project, where there is a demonstrable link with the Growth Deals project. This should not include in-kind contributions.Scheme sponsorCommercial floorspace refurbishedsq m, by classAnnuallyFor project sites, the area and class of refurbished commercial floorspace. Floor areas should be measured in accordance with the RICS Code of measuring practice (6th edition) 2007.Scheme sponsorCommercial floorspace occupiedsq m, by classAnnuallyFor project sites, the area and class of commercial floorspace constructed/refurbished that is currently occupied by commercial tenants.Scheme sponsorCommercial rental values£/sq m per month, by classAnnuallyThe market rate for leasing commercial floorspace at the project sitesScheme sponsorBusiness Support, Innovation, and BroadbandFinancial return on access to finance schemes%AnnuallyThe financial return to the scheme associated with revolving/repayable access to finance interventions - measured as a % return on initial investment.Scheme sponsor monitoring informationSkills CapitalFollow on investment at site, including revenue funding£, by sourceAnnuallyFor the project site, the volume of public, private or third sector investment undertaken at the site (including revenue funding, for example for training courses) over and above that for the Growth Deals project, where there is a demonstrable link with the Growth Deals project. This should not include in-kind contributions.College/SFA dataPost code for new build sitesQualitativeAnnuallyPost code for new build sites, for matching with SFA database.
+This information can potentially be used by the SFA to draw out metrics on learners and qualifications at the site level, to be shared with LEPs.Scheme sponsor monitoring information
+Appendix 3 – BIS Additional Monitoring for Specific Schemes
+UnitFrequencyDefinitionData SourceTransport - to be collected for all projects/programmes involving more than £5m public funding and where these metrics and the collection points are relevant to the interventionAverage daily traffic and by peak/non-peak periodsVehiclesBi-AnnuallyAverage daily traffic by direction; AM, Inter- and PM peak hour traffic flows by direction.
+Data collection location depends on the potential impact of transport schemes. Peak/inter-peak is defined based on local traffic flows. This applies to most transport interventions.Automatic Traffic Counters; Manual Classified CountsAverage AM and PM peak journey time per mile on key routes (journey time measurement)hr/mileBi-AnnuallyAverage AM and PM peak journey time per mile on key routes.
+
+Traffic congestion statistics reported across whole intervention area and on key corridors targeted for investment.Trafficmaster data; Automatic Number Plate RecognitionAverage AM and PM peak journey time on key routes (journey time measurement)MinutesBi-AnnuallyAverage AM and PM peak journey time on key routes.
+
+Data collection location depends on the potential impact of transport schemes.Journey time suveysDay-to-day travel time variabilityMinutesBi-AnnuallyStandard deviation of AM and PM peak hour journey time.
+This applies to highway/public transport intervention on key corridors targeted for investmentJourney time suveys; Trafficmaster dataAverage annual CO2 emissionsTonnesBi-AnnuallyAverage annual CO2 emissions
+
+Report across whole intervention areaLocal Authority Carbon Tool based on distance travelled, vehicle speed and vehicle mixAccident rateNumber, by severityBi-AnnuallyNumber of accidents and accident rate by severity and class of road.
+Report on key roads/junctions/area targeted for improvement. This metric applies to those schemes which are anticipated to have a significant impact on accidents.STATS 19 Accident dataCasualty rateNumber, by severityBi-AnnuallyNumber of casualties and casualty rate by severity and class of road user. 
+Report on key roads/junctions/area targeted for improvement. This metric applies to those schemes which are anticipated to have a significant impact on accidents.STATS 19 Accident dataNitrogen Oxide and particulate emissionsNOX (tonnes); PM10 (µg/m3)Bi-AnnuallyNOX emissions in tonnes per year; PM10 concentrations per year.
+Affected network is defined as the existing route, the new route, or an improved route on which traffic flow changes are considered to be significant. This metric applies to those schemes which are anticipated to have a significant impact on air quality.Air quality monitoring surveyTraffic noise levels at receptor locationsLA10, 18hr (dB)Bi-AnnuallyTraffic noise levels at receptor locations
+
+This depends on the scale of the proposed project, the site and local circumstances, and the location of sensitive receptors. This metric applies to those schemes which are anticipated to have a significant impact on noise.Automatic Traffic Counters (18 hour Annual Average Weekday Traffic, composition of traffic - % Heavy Goods Vehicles, average traffic speeds); Noise monitoring surveyAnnual average daily and peak hour passenger boardingsBi-AnnuallyAnnual average daily passenger boardings; AM, inter- and PM peak hour passenger boardingsBus/rail ticketing data; Manual counts at stops/stationsBus/light rail travel time by peak periodMinutesBi-AnnuallyAM and PM peak bus/light rail travel timeBus journey time surveys or Automatic Vehicle Location data; Rail journey timetableMode share (%)%Bi-AnnuallyAM and PM peak proportion of trips for different travel modesAutomatic Traffic Counters; Manual Classified CountsPedestrians counts on new/existing routesBi-AnnuallyPedestrians counts on new/existing routes
+
+This applies to sustainable transport initiatives for walking.Manual counts; Video camerasCycle journeys on new/existing routesBi-AnnuallyCycle journeys on new/existing routes
+
+This applies to sustainable transport initiatives for cycling.Manual cycle counts; Automatic cycling counters; Video camerasHouseholds with access to specific sites by mode within threshold timesNumberBi-AnnuallyHouseholds with access to specific sites within 20/40 minutes using public transport/walking, car and cycleAccessibility statistics published by DfT; Produce bespoke accessibility measures and travel time calculations using off-the-shelf softwareBusiness Support, Innovation and Broadband - to be collected where more robust evaluation is planned and where these metrics are relevant to the interventionDetail of successful and unsuccessful applicantsOn-goingAdministrative database covering company name, address, post code and CRN - company reference number. Named contact, telephone number and email address (and consent for being contacted). This should be captured for both successful and unsuccessful applicants.
+
+Required for robust long term evaluationScheme sponsor monitoring informationBeneficiary characteristics (business age, size, sector)On-goingCollected at the point of initial contact with business:
+- Age: year of business registration / founding year
+- Size: turnover and employmentScheme sponsor monitoring informationOther support provided to applicant firm£, by schemeOn-goingOther types of support received by successful applicants; covering the scheme, timing, type and value (£) of support receivedScheme sponsor monitoring informationNumber of entrepreneurial readiness assists progressing to full tradingNumberAnnuallyThe number of potential entrepreneurs assisted that have subsequently progressed to full trading.
+
+Will require a bespoke survey of beneficiaries - could do on a sample basis.Scheme sponsor Number of enterprises assisted to cooperate with research entities/institutionsNumberAnnuallyThe number of treated SMEs working jointly with research entities after assistance has been given. Should be counted up to 3 years following support. Knowledge transfer is about transferring good ideas, research results and skills between the knowledge base and business to enable innovative new products and services to be developedScheme sponsor Number of enterprises supported to introduce new to the market productsNumberAnnuallyThe number of treated SMEs that successfully introduce a new-to-market product after assistance has been given. Product should be available for commercial purchase. Should be counted up to 3 years following support.Scheme sponsor Number of enterprises supported to introduce new to the firm productsNumberAnnuallyThe number of treated SMEs that successfully introduce a new-to-firm product after assistance has been given. Product should be available for commercial purchase Should be counted up to 3 years following support.Scheme sponsor
+
+
+
+
+
+
+
+
+
+
+
+
+
+6 | Page
+
+
+	
+                                                            
+
+
+				Page 8 of 18
+
+
