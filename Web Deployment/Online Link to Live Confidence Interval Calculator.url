@@ -2,4 +2,5 @@
 Prop3=19,11
 [InternetShortcut]
 IDList=
-URL=https://hub.gke2.mybinder.org/user/grahamharrison6-dence-intervals-4clvanih/voila/render/Confidence%20Interval%20App.ipynb
+URL=https://mybinder.org/v2/gh/grahamharrison68/Confidence-Intervals/HEAD?urlpath=%2Fvoila%2Frender%2FConfidence%2520Interval%2520App.ipynb
+HotKey=0
