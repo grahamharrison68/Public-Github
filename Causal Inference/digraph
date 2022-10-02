@@ -1,0 +1,5 @@
+digraph {
+	age -> hasGraduateDegree
+	age -> greaterThan50k
+	hasGraduateDegree -> greaterThan50k
+}

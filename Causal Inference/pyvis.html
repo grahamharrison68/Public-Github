@@ -12,8 +12,8 @@
 <style type="text/css">
 
         #mynetwork {
-            width: 500px;
-            height: 500px;
+            width: 400px;
+            height: 400px;
             background-color: #ffffff;
             border: 1px solid lightgray;
             position: relative;
@@ -50,8 +50,8 @@
         
 
         // parsing and collecting nodes and edges from the python
-        nodes = new vis.DataSet([{"id": "POP", "label": "POP", "shape": "dot", "size": 10}, {"id": "EC", "label": "EC", "shape": "dot", "size": 10}, {"id": "FFEC", "label": "FFEC", "shape": "dot", "size": 10}, {"id": "REC", "label": "REC", "shape": "dot", "size": 10}, {"id": "EI", "label": "EI", "shape": "dot", "size": 10}, {"id": "CO2", "label": "CO2", "shape": "dot", "size": 10}, {"id": "CH4", "label": "CH4", "shape": "dot", "size": 10}, {"id": "N2O", "label": "N2O", "shape": "dot", "size": 10}, {"id": "URB", "label": "URB", "shape": "dot", "size": 10}, {"id": "GDP", "label": "GDP", "shape": "dot", "size": 10}]);
-        edges = new vis.DataSet([{"arrows": "to", "from": "POP", "to": "EC", "weight": 1}, {"arrows": "to", "from": "EC", "to": "FFEC", "weight": 1}, {"arrows": "to", "from": "EC", "to": "REC", "weight": 1}, {"arrows": "to", "from": "EC", "to": "EI", "weight": 1}, {"arrows": "to", "from": "FFEC", "to": "CO2", "weight": 1}, {"arrows": "to", "from": "FFEC", "to": "CH4", "weight": 1}, {"arrows": "to", "from": "FFEC", "to": "N2O", "weight": 1}, {"arrows": "to", "from": "REC", "to": "CO2", "weight": 1}, {"arrows": "to", "from": "REC", "to": "CH4", "weight": 1}, {"arrows": "to", "from": "REC", "to": "N2O", "weight": 1}, {"arrows": "to", "from": "URB", "to": "EC", "weight": 1}, {"arrows": "to", "from": "GDP", "to": "EC", "weight": 1}]);
+        nodes = new vis.DataSet([{"id": "age", "label": "age", "shape": "dot", "size": 10}, {"id": "hasGraduateDegree", "label": "hasGraduateDegree", "shape": "dot", "size": 10}, {"id": "greaterThan50k", "label": "greaterThan50k", "shape": "dot", "size": 10}]);
+        edges = new vis.DataSet([{"arrows": "to", "from": "age", "to": "hasGraduateDegree", "weight": 1}, {"arrows": "to", "from": "age", "to": "greaterThan50k", "weight": 1}, {"arrows": "to", "from": "hasGraduateDegree", "to": "greaterThan50k", "weight": 1}]);
 
         // adding nodes and edges to the graph
         data = {nodes: nodes, edges: edges};
