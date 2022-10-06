@@ -1,0 +1,48 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><head><title>Python: module cpt_tools</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head><body bgcolor="#f0f0f8">
+
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="heading">
+<tr bgcolor="#7799ee">
+<td valign=bottom>&nbsp;<br>
+<font color="#ffffff" face="helvetica, arial">&nbsp;<br><big><big><strong>cpt_tools</strong></big></big></font></td
+><td align=right valign=bottom
+><font color="#ffffff" face="helvetica, arial"><a href=".">index</a><br></font></td></tr></table>
+    <p><tt>This&nbsp;module&nbsp;contains&nbsp;helpder&nbsp;functions&nbsp;to&nbsp;visualise&nbsp;conditional&nbsp;probability&nbsp;tables</tt></p>
+<p>
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="section">
+<tr bgcolor="#aa55cc">
+<td colspan=3 valign=bottom>&nbsp;<br>
+<font color="#ffffff" face="helvetica, arial"><big><strong>Modules</strong></big></font></td></tr>
+    
+<tr><td bgcolor="#aa55cc"><tt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</tt></td><td>&nbsp;</td>
+<td width="100%"><table width="100%" summary="list"><tr><td width="25%" valign=top><a href="numpy.html">numpy</a><br>
+</td><td width="25%" valign=top><a href="pandas.html">pandas</a><br>
+</td><td width="25%" valign=top></td><td width="25%" valign=top></td></tr></table></td></tr></table><p>
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="section">
+<tr bgcolor="#eeaa77">
+<td colspan=3 valign=bottom>&nbsp;<br>
+<font color="#ffffff" face="helvetica, arial"><big><strong>Functions</strong></big></font></td></tr>
+    
+<tr><td bgcolor="#eeaa77"><tt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</tt></td><td>&nbsp;</td>
+<td width="100%"><dl><dt><a name="-display_cpt"><strong>display_cpt</strong></a>(tabularcpd: pgmpy.factors.discrete.CPD.TabularCPD) -&gt; pandas.core.frame.DataFrame</dt><dd><tt>Displays&nbsp;a&nbsp;CPD&nbsp;to&nbsp;a&nbsp;Jupyter&nbsp;cell&nbsp;output&nbsp;including&nbsp;a&nbsp;formatted&nbsp;explanation&nbsp;and&nbsp;a&nbsp;DataFram&nbsp;of&nbsp;the&nbsp;probabilities<br>
+&nbsp;<br>
+Args:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;tabularcpd&nbsp;(tabularcpd):&nbsp;The&nbsp;TabularCPD&nbsp;to&nbsp;be&nbsp;displayed.<br>
+&nbsp;<br>
+Returns:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;pd.DataFrame:&nbsp;The&nbsp;conditional&nbsp;probability&nbsp;table&nbsp;formatted&nbsp;as&nbsp;a&nbsp;DataFrame</tt></dd></dl>
+ <dl><dt><a name="-display_query"><strong>display_query</strong></a>(query: pgmpy.factors.discrete.DiscreteFactor.DiscreteFactor, phi_or_p: str = 'phi', print_state_names: bool = True) -&gt; pandas.core.frame.DataFrame</dt><dd><tt>Converts&nbsp;a&nbsp;DiscreteFactor&nbsp;(a&nbsp;pgmpy&nbsp;query&nbsp;object)&nbsp;output&nbsp;into&nbsp;a&nbsp;DataFrame<br>
+&nbsp;<br>
+Args:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;phi_or_p&nbsp;(str,&nbsp;optional):&nbsp;'phi':&nbsp;When&nbsp;used&nbsp;for&nbsp;Factors.&nbsp;'p':&nbsp;When&nbsp;used&nbsp;for&nbsp;CPDs.&nbsp;Defaults&nbsp;to&nbsp;"phi".<br>
+&nbsp;&nbsp;&nbsp;&nbsp;print_state_names&nbsp;(bool,&nbsp;optional):&nbsp;If&nbsp;True,&nbsp;the&nbsp;user&nbsp;defined&nbsp;state&nbsp;names&nbsp;are&nbsp;displayed..&nbsp;Defaults&nbsp;to&nbsp;True.<br>
+&nbsp;<br>
+Returns:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;pd.DataFrame:&nbsp;The&nbsp;output&nbsp;DataFrame<br>
+&nbsp;<br>
+Notes:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Modified&nbsp;from&nbsp;_str&nbsp;in&nbsp;DiscreteFactor.py&nbsp;(right&nbsp;click&nbsp;on&nbsp;TabularCPD&nbsp;and&nbsp;choose&nbsp;Goto&nbsp;Definition)</tt></dd></dl>
+</td></tr></table>
+</body></html>
