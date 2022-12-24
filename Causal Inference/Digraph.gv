@@ -1,14 +1,6 @@
 digraph {
-	POP -> EC
-	EC -> FFEC
-	EC -> REC
-	EC -> EI
-	URB -> EC
-	GDP -> EC
-	FFEC -> CO2
-	FFEC -> CH4
-	FFEC -> N2O
-	REC -> CO2
-	REC -> CH4
-	REC -> N2O
+	"Reaction?" -> "Vaccination?"
+	"Smallpox?" -> "Reaction?"
+	"Death?" -> "Reaction?"
+	"Death?" -> "Smallpox?"
 }

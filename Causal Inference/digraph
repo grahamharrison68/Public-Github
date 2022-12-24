@@ -1,5 +1,16 @@
 digraph {
-	age -> hasGraduateDegree
-	age -> greaterThan50k
-	hasGraduateDegree -> greaterThan50k
+	LeadTime -> DifferentRoomAssigned
+	BookingChanges -> DifferentRoomAssigned
+	U -> HotelType
+	U -> LeadTime
+	U -> IsCanceled
+	U -> DepositType
+	Country -> U
+	TotalGuests -> U
+	DepositType -> IsCanceled
+	LeadTime -> IsCanceled
+	DifferentRoomAssigned -> IsCanceled
+	HotelType -> IsCanceled
+	HotelType -> DepositType
+	HotelType -> DifferentRoomAssigned
 }
