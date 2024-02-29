@@ -1,13 +1,17 @@
 {
+    //"workbench.colorTheme": "Default Light+",
+
     "editor.guides.indentation": false,
-    "python.linting.pylintEnabled": true,
-    "python.linting.enabled": true,
+    //"python.linting.pylintEnabled": true,
+    //"python.linting.enabled": true,
     "python.testing.pytestArgs": [
         "."
     ],
     "python.testing.unittestEnabled": false,
+
     "python.testing.pytestEnabled": true,
-    "python.linting.pylintArgs": [
+
+    "pylint.args": [
         "--jobs=4", // Tells pylint to use 4 cores to speed things up
         "--max-line-length=300", 
         "--disable", "raise-missing-from", 
@@ -30,11 +34,43 @@
         "--disable", "protected-access", 
         "--good-names-rgxs=^[_a-zA-Z][_a-zA-Z0-9]?$"
         // https://stackoverflow.com/questions/21833872/why-does-pylint-object-to-single-character-variable-names
+        // good-names-rgxs=^[_a-zA-Z][_a-zA-Z0-9]?$"
+        //
+        //^          # starts with
+        //[_a-zA-Z]     # 1st character required
+        //[_a-zA-Z0-9]? # Subsequent characters 0 or more times
+        //$          # ends with
+    ]
+
+
+    // "python.linting.pylintArgs": [
+    //    "--jobs=4", // Tells pylint to use 4 cores to speed things up
+    //     "--max-line-length=300", 
+    //     "--disable", "raise-missing-from", 
+    //     "--disable", "missing-module-docstring", 
+    //     "--disable", "eval-used", 
+    //     "--disable", "too-few-public-methods", 
+    //     "--disable", "too-many-locals", 
+    //     "--disable", "arguments-differ", 
+        // "--disable", "unsubscriptable-object", 
+        // "--disable", "too-many-arguments", 
+        // "--disable", "dangerous-default-value", 
+        // "--disable", "consider-using-f-string", 
+        // "--disable", "too-many-lines", 
+        // "--disable", "line-too-long", 
+        // "--disable", "no-else-return", 
+        // "--disable", "too-many-nested-blocks", 
+        // "--disable", "too-many-public-methods", 
+        // "--disable", "use-implicit-booleaness-not-comparison", 
+        // "--disable", "singleton-comparison", 
+        // "--disable", "protected-access", 
+        // "--good-names-rgxs=^[_a-zA-Z][_a-zA-Z0-9]?$"
+        // https://stackoverflow.com/questions/21833872/why-does-pylint-object-to-single-character-variable-names
         // good-names-rgxs=^[_a-z][_a-z0-9]?$
         //
         //^          # starts with
         //[_a-z]     # 1st character required
         //[_a-z0-9]? # 2nd character optional
         //$          # ends with
-    ]
+    //]
 }
